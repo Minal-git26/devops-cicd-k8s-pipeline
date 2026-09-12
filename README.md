@@ -5,8 +5,14 @@ This project demonstrates a complete, production-style DevOps workflow: a web ap
 
 The goal of this project was to understand and implement how modern engineering teams ship software reliably and repeatably — not just to use individual tools in isolation.
 
-## Architecture
 
+## Architecture Overview
+
+<div align="center">
+  <img src="images/ci-cd-architecture.png" alt="CI/CD Pipeline Architecture" width="80%">
+</div>
+
+This diagram shows the end-to-end pipeline...
 ```
 Developer → GitHub (source control)
               │
