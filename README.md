@@ -7,10 +7,9 @@ The goal of this project was to understand and implement how modern engineering 
 
 
 ## Architecture Overview
+![CI/CD Pipeline Architecture](images/ci-cd-architecture.png)
 
-<div align="center">
-  <img src="images/ci-cd-architecture.png" alt="CI/CD Pipeline Architecture" width="80%">
-</div>
+This diagram shows the end-to-end pipeline..
 
 This diagram shows the end-to-end pipeline...
 ```
