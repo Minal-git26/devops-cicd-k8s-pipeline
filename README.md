@@ -7,7 +7,8 @@ The goal of this project was to understand and implement how modern engineering 
 
 
 ## Architecture Overview
-<img src="/https://lh3.googleusercontent.com/gg/ACRwjatQvpSBNMw9uIV6K5zVeUdWgxVuXgPdxsqxgRd5TKHSmfa8UBRhTy2n4vbhBEd-lpz5g5pb9JxZ0huXfAdTIb92wm7hUEaP1XoAVhNyIxTaAqdypJH_05fgHV28zV7MIjUgf1kbYXmvBAE9NvIbdStT9edkhzWf6rmcypzTQFlFHQO6eXc_BVhSv8do_b8yiU9A9UoXOzE4FfaZpEaa03oxyih2SqUX2Hl7ZRG4qherz6vBvbOnqOweja3o20pr1rDbo1RXFBuEfYGtJoO8jCw-K7tYVHQEXG74cI772UQNmueo6bQatzfoxyL_mL53QYKUnpQktewfQ5y7ZDNgMvw=s1600" width="300" alt="Description">
+<img width="336" height="192" alt="image" src="https://github.com/user-attachments/assets/3ab6744f-72d7-40e5-9b58-1d085889c3c5](https://github.com/Minal-git26/devops-cicd-k8s-pipeline/blob/b5153b270e1a799e6f7dd42153de9966ec99c4b0/Gemini_Generated_Image_ygjkh9ygjkh9ygjk.png" />
+
 
 This diagram shows the end-to-end pipeline...
 ```
