@@ -7,7 +7,7 @@ The goal of this project was to understand and implement how modern engineering 
 
 
 ## Architecture Overview
-
+<img src="/https://lh3.googleusercontent.com/gg/ACRwjatQvpSBNMw9uIV6K5zVeUdWgxVuXgPdxsqxgRd5TKHSmfa8UBRhTy2n4vbhBEd-lpz5g5pb9JxZ0huXfAdTIb92wm7hUEaP1XoAVhNyIxTaAqdypJH_05fgHV28zV7MIjUgf1kbYXmvBAE9NvIbdStT9edkhzWf6rmcypzTQFlFHQO6eXc_BVhSv8do_b8yiU9A9UoXOzE4FfaZpEaa03oxyih2SqUX2Hl7ZRG4qherz6vBvbOnqOweja3o20pr1rDbo1RXFBuEfYGtJoO8jCw-K7tYVHQEXG74cI772UQNmueo6bQatzfoxyL_mL53QYKUnpQktewfQ5y7ZDNgMvw=s1600" width="300" alt="Description">
 
 This diagram shows the end-to-end pipeline...
 ```
