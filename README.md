@@ -7,7 +7,7 @@ The goal of this project was to understand and implement how modern engineering 
 
 
 ## Architecture Overview
-<img width="336" height="192" alt="image" src="https://github.com/user-attachments/assets/3ab6744f-72d7-40e5-9b58-1d085889c3c5](https://github.com/Minal-git26/devops-cicd-k8s-pipeline/blob/b5153b270e1a799e6f7dd42153de9966ec99c4b0/Gemini_Generated_Image_ygjkh9ygjkh9ygjk.png" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/Gemini_Generated_Image_ygjkh9ygjkh9ygjk.png" />
 
 
 This diagram shows the end-to-end pipeline...
