@@ -7,10 +7,7 @@ The goal of this project was to understand and implement how modern engineering 
 
 
 ## Architecture Overview
-<img width="1536" height="1024" alt="image" src="![Uploading image.png…]()
-" />
 
-This diagram shows the end-to-end pipeline..
 
 This diagram shows the end-to-end pipeline...
 ```
